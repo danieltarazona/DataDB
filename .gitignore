@@ -1,5 +1,6 @@
 .idea/
-/node_modules/
+node_modules/nocodb/db/migrations 
+node_modules
 /package-lock.json
 /nc/
 .env
